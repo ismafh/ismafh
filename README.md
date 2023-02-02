@@ -5,7 +5,7 @@
 <h3 align="center">Computer Science student at Universitat Politecnica de Valencia</h3>
 - 🔭 Constantly learning<br>
 - 🏀 Basketball lover<br>
-- 💻 Interested in Software Development
+- 💻 Interested in Software Development<br>
 - My portfolio: https://ismafh.github.io/
 
 <h3 align="left">Connect with me:</h3>
