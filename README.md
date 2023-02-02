@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ismael Fernandez</h1>
 <h3 align="center">Computer Science student at Universitat Politecnica de Valencia</h3>
-
-- ℹ️ LinkedIn **https://www.linkedin.com/in/ismael-fernandez-2289441b1/**
+- 🔭 Constantly learning<br>
+- 🏀 Basketball lover<br>
+- 💻 Interested in Software Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
