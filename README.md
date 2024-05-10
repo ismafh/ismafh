@@ -1,5 +1,5 @@
 <p align="center">
-  <img align=center src="https://github.com/ismafh/ismafh/blob/main/IMG_8912.jpeg" width="128"/>
+  [comment]:<img align=center src="https://github.com/ismafh/ismafh/blob/main/IMG_8912.jpeg" width="128"/>
 </p>
 <h1 align="center">Hi 👋, I'm Ismael Fernandez</h1>
 <h3 align="center">Computer Science student at Universitat Politecnica de Valencia</h3>
